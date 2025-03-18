@@ -17,7 +17,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jo7-7&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo7-7&layout=compact&theme=radical)
 ## 🏆 GitHub Contribution Graph
-![GitHub Contribution Graph](https://github.com/yourusername/github-readme-activity-graph)
+![GitHub Contribution Graph](https://github.com/Jo7-7/github-readme-activity-graph)
 
 
 ## 📌 Featured Projects

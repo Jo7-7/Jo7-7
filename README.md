@@ -11,7 +11,7 @@
 ## 💻 Tech Stack
 - **Languages:** Python, Java, SQL  
 - **Frameworks:** TensorFlow, Scikit-learn, Pandas  
-- **Tools:** Git, Docker, Jupyter Notebook, Linux  
+- **Tools:** Git, Jupyter Notebook, Linux  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jo7-7&show_icons=true&theme=radical)

@@ -10,7 +10,7 @@
 
 ## 💻 Tech Stack
 - **Languages:** Python, Java, SQL  
-- **Frameworks:** TensorFlow, Scikit-learn, Pandas  
+- **Frameworks:** ﻿numpy, pandas, matplotlib, seaborn, scikit-learn, jupyter, statsmodels, prophet, tensorflow
 - **Tools:** Git, Jupyter Notebook, Linux  
 
 ## 📊 GitHub Stats

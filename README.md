@@ -22,7 +22,7 @@
 🔹 [**Weather Forecasting ML**](https://github.com/Jo7-7/weather-forecasting-ml) - Machine Learning project for weather prediction  
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/josu%C3%A9-kinsanh-nixxon-koffi/](#)
-- 📩 Email: [josuekoffi27@gmail.com](#)
+- 💼 LinkedIn: https://www.linkedin.com/in/josu%C3%A9-kinsanh-nixxon-koffi
+- 📩 Email: josuekoffi27@gmail.com
 
 
